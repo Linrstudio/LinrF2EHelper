@@ -5,6 +5,9 @@
 ### 下载（Download）：
 https://github.com/Linrstudio/LinrF2EHelper/downloads
 
+### 更多介绍
+http://xiaogezi.cn/app/LinrFrontEndHelper.htm
+
 ### 特色（Gallery）：
 	 
 1. 画框生成CSS ：
