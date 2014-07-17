@@ -3,6 +3,9 @@
 前端辅助，是一款前端开发人员辅助软件.它集成有画框生成CSS、IE Dom调试插件、屏幕取色、屏幕放大镜、屏幕截图（内置腾讯截屏）、时尚配色、文本编辑器、资源管理器、音乐盒等工具。另外，它集成在IE的工具栏上，点击笑脸图标，就可以开启。启动软件，它总是位于屏幕的最上方窗口标题栏位置，绝对不占用你的工作空间。 
 
 ### 下载（Download）：
+https://github.com/Linrstudio/LinrF2EHelper/tree/master/download
+
+###旧版下载（Download）
 https://github.com/Linrstudio/LinrF2EHelper/downloads
 
 ### 更多介绍
